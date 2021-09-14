@@ -6,4 +6,4 @@
 
 ## Laravel Posty
 
-A blog posting app with authentication, authorization, like , like functionality. Also styled using Tailwind css 
+A blog posting app with authentication, authorization, like functionality. Also styled using Tailwind css 
